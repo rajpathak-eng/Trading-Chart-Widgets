@@ -68,10 +68,6 @@ To get started with the project, follow these steps:
     - Paste the embed code into the HTML of your website.
     - The widget will now be displayed on your website with a backlink to your site.
 
-## Contribution
-
-Contributions are welcome! Please open an issue or submit a pull request with your improvements.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
